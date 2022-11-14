@@ -1,3 +1,14 @@
+# Description
+
+This project intends to host a application that will work as a Minecraft Farms catalog. It was developed using Micronaut and Postgresql.
+
+# Branch and Pull Request Pattern
+
+- Create a issue related to some feature or bug
+- Create the branch based on dev following the following name pattern: feature or fix/issueNumber-description
+- Every pull request shloud be created aiming to merge branch into dev
+
+
 ## Micronaut 3.7.3 Documentation
 
 - [User Guide](https://docs.micronaut.io/3.7.3/guide/index.html)
